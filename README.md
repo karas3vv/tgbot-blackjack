@@ -16,8 +16,8 @@
 ## Как запустить проект
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/telegram-blackjack-bot.git
-   cd telegram-blackjack-bot
+   git clone https://github.com/karas3vv/tgbot-blackjack.git
+   cd tgbot-blackjack
    ```
 2. Установите зависимости:
    ```bash
@@ -30,7 +30,7 @@
    ```
 5. Запустите бота:
    ```bash
-   python blackjack_bot.py
+   python blackjack.py
    ```
 6. Перейдите в Telegram, найдите своего бота и начните игру командой `/start`.
 
